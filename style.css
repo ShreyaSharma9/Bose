@@ -1,0 +1,498 @@
+*
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+#logo{
+    height: 70px;
+    margin-left: 80px;
+}
+.Primary-links{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -55px;
+    margin-left: 450px;
+    list-style: none;
+    font-weight: lighter;
+
+}
+.search-btn{
+    width: 42%;
+    border-radius: 15px;
+    height: 24px;
+}
+.Secondary-links{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: small;
+    list-style: none;
+}
+.spring-btn{
+    font-size: smaller;
+    border-radius: 12px;
+    height: 20px;
+    width: 10%;
+}
+.hero-section{
+    height: 75vh;
+    background-image: url(img11.png);
+    background-size: cover;
+    background-position: center;
+}
+.text-section-zero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+.text-section-zero h1{
+    margin-top: 120px;
+    margin-left: 600px;
+    font-size: 35px;
+}
+.text-section-zero h2{
+    margin-top: -10px;
+    margin-left: 600px;
+    font-size: 35px;
+}
+.text-section-zero h4{
+    margin-left: 600px;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.text-section-zero p{
+    margin-left: 600px;
+    font-size: 15px;
+    margin-top: 7px;
+}
+.explore-btn{
+    margin-left: 600px;
+    margin-top: 15px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    width: 10%;
+    border-radius: 15px;
+    height: 35px;
+}
+.duo-section{
+    height: 85px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.text-section h2{
+    margin-left: 100px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.text-section p{
+    margin-left: 100px;
+    font-size: 18px;
+    font-weight: lighter;
+    
+}
+.text-section-one{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 450px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.text-section-one li{
+    width: 100px;
+}
+.text-section-two{
+    list-style: none;
+}
+.hero-section-two{
+    height: 80vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.hero-section-two h1{
+    margin-top: -380px;
+    width: 25%;
+
+
+}
+.image-card-1{
+    height: 300px;
+    width: 250px;
+    margin-left: -340px;
+    background-color: rgb(242, 243, 243);
+}
+#logo-1{
+    height: 200px;
+}
+
+.image-card-2{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(242, 243, 243);
+}
+#logo-2{
+    height: 200px;
+}
+.image-card-3{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(242, 243, 243);
+}
+#logo-3{
+    height: 200px;
+}
+.image-card-4{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(242, 243, 243);
+}
+#logo-4{
+    height: 200px;
+}
+.special-btn{
+    width: 100%;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    border: none;
+}
+.hero-section-three{
+    height: 80vh;
+    display: flex;
+}
+.image-section{
+    height: 500px;
+    width: 70%;
+    background-image: url(img6.jpeg);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-section-three{
+    height: 500px;
+    
+    background-color: black;
+    color: white;
+    margin-left: 850px;
+    margin-top: -455px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#logo1{
+    height: 150px;
+
+}
+#logo2{
+    height: 20px;
+    margin-bottom: 20px;
+}
+.text-section-three h3{
+    margin-top: 10px;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.text-section-three p{
+    font-size: 18px;
+    margin-top: 3px;
+}
+.shopp-btn{
+    margin-top: 20px;
+    height: 35px;
+    width: 28%;
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+.hero-section-four{
+    height: 72vh;
+    background-image: url(image\ hein.jpeg);
+    background-size: cover;
+}
+.text-section-six{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.text-section-six h2{
+    margin-top: 100px;
+    margin-left: -550px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.text-section-six h3{
+    margin-top: -5px;
+    margin-left: -575px;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.text-section-six h4{
+    margin-left: -550px;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.shop-btn{
+    width: 10%;
+    margin-left: -560px;
+    border: none;
+    border-radius: 12px;
+    height: 32px;
+}
+.hero-section-five{
+    height: 90vh;
+    
+    background-color: white;
+    
+
+}
+.text-section-five{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    
+    
+}
+.text-section-five h4{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.text-section-five h1{
+    margin-bottom: 20px;
+    font-size: 45px;
+    font-weight: 700;
+}
+.text-section-five p{
+    width: 100%;
+
+    
+
+}
+
+#logo-20{
+    height: 250px;
+    width: 220px;
+    margin-left: -50px;
+}
+#logo-21{
+    height: 250px;
+    width: 220px;
+    margin-left: 50px;
+}
+#logo-22{
+    height: 250px;
+    width: 220px;
+    margin-left: 50px;
+}
+#logo-23{
+    height: 250px;
+    width: 220px;
+    margin-left: 50px;
+}
+
+#logo-24{
+    height: 250px;
+    width: 220px;
+    margin-left: 10px;
+    
+}
+.hero-section-six{
+    height: 72vh;
+    background-image: url(image\ heinn.jpeg);
+    background-size: cover;
+}
+.text-section-seven{
+    margin-left: 700px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.text-section-seven h4{
+    margin-top: 140px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+}
+.text-section-seven h1{
+    font-size: 35px;
+    
+}
+.text-section-seven h2{
+    font-size: 35px;
+    margin-bottom: 20px;
+
+}
+.learn-btn{
+    width: 25%;
+    height: 32px;
+    border-radius: 18px;
+    font-weight: bold;
+    color: rgb(85, 84, 84);
+}
+.due-section{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    font-weight: lighter;
+    color: rgb(77, 74, 74);
+}
+.hero-section-seven{
+    height: 80vh;
+    background-color: rgb(236, 239, 240);
+    padding-top: 70px;
+
+
+}
+
+.box{
+    background-color: white;
+    height: 400px;
+    width: 79%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.box h4{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.box h1{
+    font-size: 50px;
+}
+.box h3{
+    font-weight: lighter;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text-section-four{
+    display: flex;
+    justify-content: space-around;
+    width: 880px;
+    
+    
+    
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: -180px;
+    margin-bottom: px;
+}
+.submit-btn{
+    margin-top: -30px;
+    height: 30px;
+    margin-left: 200px;
+    border-radius: 28px;
+    width: 12%;
+    background-color: rgb(48, 47, 47);
+    color: white;
+    margin-bottom: 20px;
+}
+.box p{
+    margin-top: 5px;
+}
+.hero-section-ten{
+    height: 155vh;
+
+}
+.hero-section-ten .navbar{
+    height: 100px;
+    color: rgb(133, 126, 126);
+    display: flex;
+background-color: rgb(26, 24, 24);
+    list-style: none;
+}
+.hero-section-ten .navbar li{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.half-hero-section{
+    background-color: black;
+    color: rgb(97, 96, 96);
+    font-weight: lighter;
+    display: flex;
+    height: 130vh;
+    
+    
+    
+}
+.last-text-section ul{
+    margin-left: 90px;
+    margin-top: 60px;
+    list-style: none;
+    color: white;
+
+    
+
+}
+.last1-text-section ul{
+    margin-left: 170px;
+    margin-top: 60px;
+    list-style: none;
+    
+}
+.last3-text-section ul{
+    margin-left: 170px;
+    margin-top: 60px;
+    list-style: none;
+    
+}
+#logo14{
+    height: 40px;
+    margin-bottom: -700px;
+    margin-left: 300px;
+
+}
+
+#logo15{
+    margin-bottom: -850px;
+    margin-left: -190px;
+    height: 100px;
+}
+.last4-text-section{
+    color: white;
+    margin-top: 600px;
+    font-size: 12px;
+    margin-left: -700px;
+}
+.last4-text-section h3{
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+.last4-text-section h4{
+    border: 1px solid rgb(66, 65, 65);
+    width: 600%;
+    margin-left: -75px;
+    margin-bottom: 30px;
+}
+.last4-text-section h5{
+    margin-left: -70px;
+    color: gray;
+}
